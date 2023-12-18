@@ -1,5 +1,5 @@
 # GoPaint
-GoPaint! A pure Java Swing based drawing application made by Mohamed Amine Khazroun
+**GoPaint! A pure Java Swing based drawing application made by Mohamed Amine Khazroun**
 
 I made a pure Java Swing based drawing application, in which you can select a desired color from a color palette and draw. I also added a reset, save and undo buttons. You can save the drawing as a PNG file in a chosen placement in your PC.
 
@@ -15,3 +15,9 @@ Here is the main interface (can also be called a Canvas) which gathers all the t
 
 
 ![rapor8](https://github.com/Keevay/GoPaint/assets/114885542/04a4d518-55b3-45b5-a746-352d13b01552)
+
+
+
+**Author**
+
+Mohamed Amine Khazroun
