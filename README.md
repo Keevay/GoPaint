@@ -16,8 +16,8 @@ I made a pure Java Swing based drawing application, in which you can select a de
 
 ![rapor8](https://github.com/Keevay/GoPaint/assets/114885542/04a4d518-55b3-45b5-a746-352d13b01552)
 
-
-
+# Language used
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 # Author
 
 Mohamed Amine Khazroun
