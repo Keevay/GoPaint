@@ -19,3 +19,6 @@ I made a pure Java Swing based drawing application, in which you can select a de
 # Author
 
 Mohamed Amine Khazroun
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aminekhazroun)
+&nbsp;
+
