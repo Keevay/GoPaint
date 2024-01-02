@@ -19,6 +19,6 @@ I made a pure Java Swing based drawing application, in which you can select a de
 # Author
 
 Mohamed Amine Khazroun
-[![Linkedin]((https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png) LinkedIn](https://www.linkedin.com/in/aminekhazroun)
-&nbsp;
+
+<a href=”https://www.linkedin.com/in/aminekhazroun/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
